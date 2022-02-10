@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dmccu\Desktop\project-3-test-driven-development-Drdavee32\test_get_language_from_filename.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dmccu\Desktop\project-3-test-driven-development-Drdavee32\get_language_from_filename.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\dmccu\Desktop\project-3-test-driven-development-Drdavee32\analysis_request.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dmccu\Desktop\project-3-test-driven-development-Drdavee32\code_analyzer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dmccu\Desktop\project-3-test-driven-development-Drdavee32\get_language_from_filename.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dmccu\Desktop\project-3-test-driven-development-Drdavee32\xml_wrapper.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dmccu\Desktop\project-3-test-driven-development-Drdavee32\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1F42FD53-8D80-3197-8663-09C0AC70F193}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BAAE8B6B-D1DB-36B6-8ED0-BC29F26C7760}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

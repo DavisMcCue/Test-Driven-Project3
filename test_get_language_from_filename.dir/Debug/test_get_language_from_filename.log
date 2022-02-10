@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/dmccu/Desktop/project-3-test-driven-development-Drdavee32/CMakeLists.txt
+  test_get_language_from_filename.cpp
+  get_language_from_filename.cpp
+cl : command line warning D9002: ignoring unknown option '-std=c++11'
+  Generating Code...
+C:\Users\dmccu\Desktop\project-3-test-driven-development-Drdavee32\get_language_from_filename.cpp(50,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  test_get_language_from_filename.vcxproj -> C:\Users\dmccu\Desktop\project-3-test-driven-development-Drdavee32\build\Debug\test_get_language_from_filename.exe

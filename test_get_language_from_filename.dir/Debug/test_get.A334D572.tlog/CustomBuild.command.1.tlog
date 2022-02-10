@@ -1,0 +1,10 @@
+^C:\USERS\DMCCU\DESKTOP\PROJECT-3-TEST-DRIVEN-DEVELOPMENT-DRDAVEE32\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dmccu/Desktop/project-3-test-driven-development-Drdavee32 -BC:/Users/dmccu/Desktop/project-3-test-driven-development-Drdavee32/build --check-stamp-file C:/Users/dmccu/Desktop/project-3-test-driven-development-Drdavee32/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
